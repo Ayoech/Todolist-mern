@@ -1,0 +1,27 @@
+input{
+  border-color: black;
+  border-style: solid;
+  
+}
+button{
+  margin-left: 48%;
+  margin-top: 2%;
+  background-color: black;
+  color: beige;
+  font-size: 1.1rem;
+}
+.wrap{
+  background-color: black;
+  color: beige;
+  margin: 3px ;
+  margin-left: 500px;
+  margin-right: 500px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.barre {
+  text-decoration: line-through; /* Example styling */
+  
+}
